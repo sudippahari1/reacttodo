@@ -84,11 +84,11 @@ updateInput(input){
                   </li>
                 )
               })}
-                <li>
+                {/* <li>
                   <input type="checkbox" name="" id="" />
                   record youtube videos
                   <button className='btn'>Delete</button>
-                </li>
+                </li> */}
               </ul>
             </div>
         </div>
